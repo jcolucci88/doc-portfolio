@@ -1,0 +1,9 @@
+File Information:
+* Files with formatting have been ZIP'd to maintain as close to their original formatting as possible.
+* Access paths for the files are shown below to eliminate confusion:
+
+Bloomberg Configuration - assets > Bloomberg_Configuration.htm
+API - api > index.htm
+LDAP - Account Management > LDAP > LDAPMain.htm
+* There are three files for LDAP, accessible from the folder or through the sidebar.
+
